@@ -5,6 +5,8 @@ Firebase Authentication in React. Includes React Router, Context API &amp; Priva
 Correo: prueba@correo.com
 Contraseña: 123456
 
+## PHP version
+7.4.19
 
 ## Configuracion local
 
